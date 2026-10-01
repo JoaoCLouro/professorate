@@ -39,3 +39,9 @@ In the future, if you are part of the `FCUL community`, if you find something yo
 * **secondly make a PR** to be evaluated.
 
 This project will be as much as possible built with frameworks and languages taught at FCUL with this spirit of open contribution by FCUL members in mind.
+
+
+## AI rules
+This project is intended to be used as a learning project. In this way, **NO AI IS ALLOWED** for majo features.
+
+You can use it to search markdown syntax or even specific framework explanations, but **NO AI GENERATED CODE CAN BE SHIPPED**
