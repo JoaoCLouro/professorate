@@ -19,7 +19,7 @@ git pull && git merge frontend
 # Resolve any merge conflicts always
 ```
 
-**NEVER PUSH TO MAIN**
+**NEVER PUSH TO MASTER**
 
 ## Tips on how to write proper commits
 

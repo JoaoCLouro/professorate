@@ -8,4 +8,4 @@ This platform will allow user to rate professors on a series of categories in a 
 You can than search a professor either by name, school or classes and see how your colleges have been rating them over the years or their current tendency.
 
 ## Colaborators
-Your first task as a colaborator is to read and follow the rules in [this document!](docs.colabs.md#Colaborators-guide)
+Your first task as a colaborator is to read and follow the rules in [this document!](docs.colabs.md)
