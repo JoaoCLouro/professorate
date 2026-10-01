@@ -42,6 +42,6 @@ This project will be as much as possible built with frameworks and languages tau
 
 
 ## AI rules
-This project is intended to be used as a learning project. In this way, **NO AI IS ALLOWED** for majo features.
+This project is intended to be used as a learning project. In this way, **NO AI IS ALLOWED** for major features.
 
 You can use it to search markdown syntax or even specific framework explanations, but **NO AI GENERATED CODE CAN BE SHIPPED**
