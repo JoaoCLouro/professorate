@@ -6,7 +6,11 @@ The goal of this project is to offer to portuguese students a platform to secure
 
 ### Features
 
-This platform will allow user to rate professors on a series of categories in a given scale.  **No written personalized rating is allowed** for security reasons.  **No photos of professors or students is allowed to be shared** for privacy protection reasons.
+This platform will allow user to rate professors on a series of categories in a given scale.  
+
+**No written personalized rating is allowed** for security reasons.  
+**No photos of professors or students is allowed to be shared** for privacy protection reasons.
+
 You can than search a professor either by name, school or classes and see how your colleges have been rating them over the years or their current tendency.
 
 ## Collaborators
