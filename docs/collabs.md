@@ -15,10 +15,10 @@ git branch -b joaoclouro
 You should **always pull** your code from the branch you work on before doing anything on your branch
 
 ```bash
-git checkout frontend
-git pull
-git checkout <your_branch>
-git pull && git merge frontend
+git checkout origin frontend
+git pull origin frontend
+git checkout origin <your_branch>
+git pull origin <your_branch> && git merge frontend
 # Resolve any merge conflicts always
 ```
 
